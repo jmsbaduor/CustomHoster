@@ -1,0 +1,30 @@
+.btn-primary {
+    background-color: #000000;
+    border-color: #000000;
+    color: #FFFFFF;
+    border-radius: 500px;
+    font-weight: bold;
+    width: 100%;
+}
+
+.btn-primary:active, .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:focus, .btn-primary:hover {
+    background-color: #356cc0;
+    border-color: #356cc0;
+}
+
+.btn {
+    padding: 16px 24px;
+    font-weight: 700;
+}
+
+.btn-link {
+    color: #233F6A;
+    text-align: center;
+    width: 100%;
+}
+
+.ng-binding.ng-scope{
+    font-size: 24px;
+    line-height: 200%;
+}
+
